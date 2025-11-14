@@ -1,9 +1,11 @@
 ---
 ---
-@import "variables";
+
 @import "{{ site.theme }}";
 
 /* custom here */
+
+@import "variables";
 
 // Breakpoints
 $large-breakpoint: 64em !default;
