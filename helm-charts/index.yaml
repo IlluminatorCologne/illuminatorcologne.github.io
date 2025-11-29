@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  trident:
+  - apiVersion: v2
+    appVersion: 1.5.2
+    created: "2025-11-29T21:47:37.9725934+01:00"
+    description: A Helm chart for deploying Trident CSI Plugin using Trident Operator
+    digest: fabece46d33e1a94115e3e379f859468199c239f6ffab5dc7e3a05c2c4432400
+    kubeVersion: '>= 1.24.0 <= 1.32'
+    name: trident
+    type: application
+    urls:
+    - trident-2.0.0.tgz
+    version: 2.0.0
+generated: "2025-11-29T21:47:37.971089+01:00"
